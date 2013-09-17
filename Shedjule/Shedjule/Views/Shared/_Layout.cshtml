@@ -1,0 +1,56 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <title>@ViewBag.Title - My ASP.NET MVC Application</title>
+        <link href="~/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        <meta name="viewport" content="width=device-width" />
+        @Styles.Render("~/Content/css")
+        @Styles.Render("~/Content/bootstrap/bootstrap.css")
+        @Scripts.Render("~/bundles/modernizr")
+    </head>
+        <header class="navbar navbar-inverse navbar-fixed-top bs-docs-nav" style="background-color:lightgray" role="banner">
+          <div class="container">
+            <div class="navbar-header">
+              <button class="navbar-toggle" type="button" data-toggle="collapse" data-target=".bs-navbar-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+              <a href="./" class="navbar-brand">Shedjule</a>
+            </div>
+            <nav class="collapse navbar-collapse bs-navbar-collapse" role="navigation">
+              <ul class="nav navbar-nav">
+
+               @* <--Items go here -->*@
+
+              </ul>
+              
+             
+                <ul class="nav navbar-nav navbar-right">
+                   @Html.Partial("_LoginPartial")
+                </ul>
+              
+            </nav>
+        </header>
+        
+        <div id="body" style="padding-top:100px">
+            @RenderSection("featured", required: false)
+            <section class="content-wrapper main-content clear-fix">
+                @RenderBody()
+            </section>
+        </div>
+        <footer>
+            <div class="content-wrapper">
+                <div class="float-left">
+                    <p>&copy; @DateTime.Now.Year - My ASP.NET MVC Application</p>
+                </div>
+            </div>
+        </footer>
+
+        @Scripts.Render("~/bundles/jquery")
+        @Scripts.Render("~/Scripts/bootstrap.js")
+        @RenderSection("scripts", required: false)
+    </body>
+</html>

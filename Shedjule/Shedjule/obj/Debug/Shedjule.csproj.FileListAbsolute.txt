@@ -1,0 +1,155 @@
+C:\Users\paradigm\Documents\Visual Studio 2012\Projects\Shedjule\Shedjule\bin\Shedjule.dll
+C:\Users\paradigm\Documents\Visual Studio 2012\Projects\Shedjule\Shedjule\bin\Shedjule.pdb
+C:\Users\paradigm\Documents\Visual Studio 2012\Projects\Shedjule\Shedjule\bin\Antlr3.Runtime.dll
+C:\Users\paradigm\Documents\Visual Studio 2012\Projects\Shedjule\Shedjule\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\paradigm\Documents\Visual Studio 2012\Projects\Shedjule\Shedjule\bin\DotNetOpenAuth.Core.dll
+C:\Users\paradigm\Documents\Visual Studio 2012\Projects\Shedjule\Shedjule\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\paradigm\Documents\Visual Studio 2012\Projects\Shedjule\Shedjule\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\paradigm\Documents\Visual Studio 2012\Projects\Shedjule\Shedjule\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\paradigm\Documents\Visual Studio 2012\Projects\Shedjule\Shedjule\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\paradigm\Documents\Visual Studio 2012\Projects\Shedjule\Shedjule\bin\EntityFramework.dll
+C:\Users\paradigm\Documents\Visual Studio 2012\Projects\Shedjule\Shedjule\bin\Microsoft.Data.Edm.dll
+C:\Users\paradigm\Documents\Visual Studio 2012\Projects\Shedjule\Shedjule\bin\Microsoft.Data.OData.dll
+C:\Users\paradigm\Documents\Visual Studio 2012\Projects\Shedjule\Shedjule\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\paradigm\Documents\Visual Studio 2012\Projects\Shedjule\Shedjule\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\paradigm\Documents\Visual Studio 2012\Projects\Shedjule\Shedjule\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\paradigm\Documents\Visual Studio 2012\Projects\Shedjule\Shedjule\bin\Newtonsoft.Json.dll
+C:\Users\paradigm\Documents\Visual Studio 2012\Projects\Shedjule\Shedjule\bin\System.Net.Http.Formatting.dll
+C:\Users\paradigm\Documents\Visual Studio 2012\Projects\Shedjule\Shedjule\bin\System.Spatial.dll
+C:\Users\paradigm\Documents\Visual Studio 2012\Projects\Shedjule\Shedjule\bin\System.Web.Helpers.dll
+C:\Users\paradigm\Documents\Visual Studio 2012\Projects\Shedjule\Shedjule\bin\System.Web.Http.dll
+C:\Users\paradigm\Documents\Visual Studio 2012\Projects\Shedjule\Shedjule\bin\System.Web.Http.OData.dll
+C:\Users\paradigm\Documents\Visual Studio 2012\Projects\Shedjule\Shedjule\bin\System.Web.Http.WebHost.dll
+C:\Users\paradigm\Documents\Visual Studio 2012\Projects\Shedjule\Shedjule\bin\System.Web.Mvc.dll
+C:\Users\paradigm\Documents\Visual Studio 2012\Projects\Shedjule\Shedjule\bin\System.Web.Optimization.dll
+C:\Users\paradigm\Documents\Visual Studio 2012\Projects\Shedjule\Shedjule\bin\System.Web.Razor.dll
+C:\Users\paradigm\Documents\Visual Studio 2012\Projects\Shedjule\Shedjule\bin\System.Web.WebPages.Deployment.dll
+C:\Users\paradigm\Documents\Visual Studio 2012\Projects\Shedjule\Shedjule\bin\System.Web.WebPages.dll
+C:\Users\paradigm\Documents\Visual Studio 2012\Projects\Shedjule\Shedjule\bin\System.Web.WebPages.Razor.dll
+C:\Users\paradigm\Documents\Visual Studio 2012\Projects\Shedjule\Shedjule\bin\WebGrease.dll
+C:\Users\paradigm\Documents\Visual Studio 2012\Projects\Shedjule\Shedjule\bin\WebMatrix.Data.dll
+C:\Users\paradigm\Documents\Visual Studio 2012\Projects\Shedjule\Shedjule\bin\WebMatrix.WebData.dll
+C:\Users\paradigm\Documents\Visual Studio 2012\Projects\Shedjule\Shedjule\bin\EntityFramework.xml
+C:\Users\paradigm\Documents\Visual Studio 2012\Projects\Shedjule\Shedjule\bin\Newtonsoft.Json.xml
+C:\Users\paradigm\Documents\Visual Studio 2012\Projects\Shedjule\Shedjule\bin\System.Net.Http.Formatting.xml
+C:\Users\paradigm\Documents\Visual Studio 2012\Projects\Shedjule\Shedjule\bin\System.Web.Helpers.xml
+C:\Users\paradigm\Documents\Visual Studio 2012\Projects\Shedjule\Shedjule\bin\System.Web.Http.xml
+C:\Users\paradigm\Documents\Visual Studio 2012\Projects\Shedjule\Shedjule\bin\System.Web.Http.WebHost.xml
+C:\Users\paradigm\Documents\Visual Studio 2012\Projects\Shedjule\Shedjule\bin\System.Web.Mvc.xml
+C:\Users\paradigm\Documents\Visual Studio 2012\Projects\Shedjule\Shedjule\bin\System.Web.Razor.xml
+C:\Users\paradigm\Documents\Visual Studio 2012\Projects\Shedjule\Shedjule\bin\System.Web.WebPages.xml
+C:\Users\paradigm\Documents\Visual Studio 2012\Projects\Shedjule\Shedjule\bin\System.Web.WebPages.Deployment.xml
+C:\Users\paradigm\Documents\Visual Studio 2012\Projects\Shedjule\Shedjule\bin\System.Web.WebPages.Razor.xml
+C:\Users\paradigm\Documents\Visual Studio 2012\Projects\Shedjule\Shedjule\bin\WebMatrix.Data.xml
+C:\Users\paradigm\Documents\Visual Studio 2012\Projects\Shedjule\Shedjule\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\paradigm\Documents\Visual Studio 2012\Projects\Shedjule\Shedjule\bin\WebMatrix.WebData.xml
+C:\Users\paradigm\Documents\Visual Studio 2012\Projects\Shedjule\Shedjule\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\paradigm\Documents\Visual Studio 2012\Projects\Shedjule\Shedjule\bin\DotNetOpenAuth.Core.xml
+C:\Users\paradigm\Documents\Visual Studio 2012\Projects\Shedjule\Shedjule\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\paradigm\Documents\Visual Studio 2012\Projects\Shedjule\Shedjule\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\paradigm\Documents\Visual Studio 2012\Projects\Shedjule\Shedjule\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\paradigm\Documents\Visual Studio 2012\Projects\Shedjule\Shedjule\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\paradigm\Documents\Visual Studio 2012\Projects\Shedjule\Shedjule\bin\System.Web.Http.OData.xml
+C:\Users\paradigm\Documents\Visual Studio 2012\Projects\Shedjule\Shedjule\bin\Microsoft.Data.Edm.xml
+C:\Users\paradigm\Documents\Visual Studio 2012\Projects\Shedjule\Shedjule\bin\Microsoft.Data.OData.xml
+C:\Users\paradigm\Documents\Visual Studio 2012\Projects\Shedjule\Shedjule\bin\System.Spatial.xml
+C:\Users\paradigm\Documents\Visual Studio 2012\Projects\Shedjule\Shedjule\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\paradigm\Documents\Visual Studio 2012\Projects\Shedjule\Shedjule\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\paradigm\Documents\Visual Studio 2012\Projects\Shedjule\Shedjule\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\paradigm\Documents\Visual Studio 2012\Projects\Shedjule\Shedjule\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\paradigm\Documents\Visual Studio 2012\Projects\Shedjule\Shedjule\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\paradigm\Documents\Visual Studio 2012\Projects\Shedjule\Shedjule\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\paradigm\Documents\Visual Studio 2012\Projects\Shedjule\Shedjule\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\paradigm\Documents\Visual Studio 2012\Projects\Shedjule\Shedjule\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\paradigm\Documents\Visual Studio 2012\Projects\Shedjule\Shedjule\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\paradigm\Documents\Visual Studio 2012\Projects\Shedjule\Shedjule\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\paradigm\Documents\Visual Studio 2012\Projects\Shedjule\Shedjule\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\paradigm\Documents\Visual Studio 2012\Projects\Shedjule\Shedjule\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\paradigm\Documents\Visual Studio 2012\Projects\Shedjule\Shedjule\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\paradigm\Documents\Visual Studio 2012\Projects\Shedjule\Shedjule\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\paradigm\Documents\Visual Studio 2012\Projects\Shedjule\Shedjule\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\paradigm\Documents\Visual Studio 2012\Projects\Shedjule\Shedjule\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\paradigm\Documents\Visual Studio 2012\Projects\Shedjule\Shedjule\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\paradigm\Documents\Visual Studio 2012\Projects\Shedjule\Shedjule\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\paradigm\Documents\Visual Studio 2012\Projects\Shedjule\Shedjule\bin\de\System.Spatial.resources.dll
+C:\Users\paradigm\Documents\Visual Studio 2012\Projects\Shedjule\Shedjule\bin\es\System.Spatial.resources.dll
+C:\Users\paradigm\Documents\Visual Studio 2012\Projects\Shedjule\Shedjule\bin\fr\System.Spatial.resources.dll
+C:\Users\paradigm\Documents\Visual Studio 2012\Projects\Shedjule\Shedjule\bin\it\System.Spatial.resources.dll
+C:\Users\paradigm\Documents\Visual Studio 2012\Projects\Shedjule\Shedjule\bin\ja\System.Spatial.resources.dll
+C:\Users\paradigm\Documents\Visual Studio 2012\Projects\Shedjule\Shedjule\bin\ko\System.Spatial.resources.dll
+C:\Users\paradigm\Documents\Visual Studio 2012\Projects\Shedjule\Shedjule\bin\ru\System.Spatial.resources.dll
+C:\Users\paradigm\Documents\Visual Studio 2012\Projects\Shedjule\Shedjule\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\paradigm\Documents\Visual Studio 2012\Projects\Shedjule\Shedjule\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\paradigm\Documents\Visual Studio 2012\Projects\Shedjule\Shedjule\obj\Debug\Shedjule.csprojResolveAssemblyReference.cache
+C:\Users\paradigm\Documents\Visual Studio 2012\Projects\Shedjule\Shedjule\obj\Debug\Shedjule.dll
+C:\Users\paradigm\Documents\Visual Studio 2012\Projects\Shedjule\Shedjule\obj\Debug\Shedjule.pdb
+C:\Users\paradigm\Documents\GitHub\shedjule\Shedjule\Shedjule\bin\Shedjule.dll.config
+C:\Users\paradigm\Documents\GitHub\shedjule\Shedjule\Shedjule\bin\Shedjule.dll
+C:\Users\paradigm\Documents\GitHub\shedjule\Shedjule\Shedjule\bin\Shedjule.pdb
+C:\Users\paradigm\Documents\GitHub\shedjule\Shedjule\Shedjule\bin\Antlr3.Runtime.dll
+C:\Users\paradigm\Documents\GitHub\shedjule\Shedjule\Shedjule\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\paradigm\Documents\GitHub\shedjule\Shedjule\Shedjule\bin\DotNetOpenAuth.Core.dll
+C:\Users\paradigm\Documents\GitHub\shedjule\Shedjule\Shedjule\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\paradigm\Documents\GitHub\shedjule\Shedjule\Shedjule\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\paradigm\Documents\GitHub\shedjule\Shedjule\Shedjule\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\paradigm\Documents\GitHub\shedjule\Shedjule\Shedjule\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\paradigm\Documents\GitHub\shedjule\Shedjule\Shedjule\bin\EntityFramework.dll
+C:\Users\paradigm\Documents\GitHub\shedjule\Shedjule\Shedjule\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\paradigm\Documents\GitHub\shedjule\Shedjule\Shedjule\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\paradigm\Documents\GitHub\shedjule\Shedjule\Shedjule\bin\Newtonsoft.Json.dll
+C:\Users\paradigm\Documents\GitHub\shedjule\Shedjule\Shedjule\bin\System.Net.Http.Extensions.dll
+C:\Users\paradigm\Documents\GitHub\shedjule\Shedjule\Shedjule\bin\System.Net.Http.Formatting.dll
+C:\Users\paradigm\Documents\GitHub\shedjule\Shedjule\Shedjule\bin\System.Net.Http.Primitives.dll
+C:\Users\paradigm\Documents\GitHub\shedjule\Shedjule\Shedjule\bin\System.Web.Helpers.dll
+C:\Users\paradigm\Documents\GitHub\shedjule\Shedjule\Shedjule\bin\System.Web.Http.dll
+C:\Users\paradigm\Documents\GitHub\shedjule\Shedjule\Shedjule\bin\System.Web.Http.OData.dll
+C:\Users\paradigm\Documents\GitHub\shedjule\Shedjule\Shedjule\bin\System.Web.Http.WebHost.dll
+C:\Users\paradigm\Documents\GitHub\shedjule\Shedjule\Shedjule\bin\System.Web.Mvc.dll
+C:\Users\paradigm\Documents\GitHub\shedjule\Shedjule\Shedjule\bin\System.Web.Optimization.dll
+C:\Users\paradigm\Documents\GitHub\shedjule\Shedjule\Shedjule\bin\System.Web.Razor.dll
+C:\Users\paradigm\Documents\GitHub\shedjule\Shedjule\Shedjule\bin\System.Web.WebPages.Deployment.dll
+C:\Users\paradigm\Documents\GitHub\shedjule\Shedjule\Shedjule\bin\System.Web.WebPages.dll
+C:\Users\paradigm\Documents\GitHub\shedjule\Shedjule\Shedjule\bin\System.Web.WebPages.Razor.dll
+C:\Users\paradigm\Documents\GitHub\shedjule\Shedjule\Shedjule\bin\WebGrease.dll
+C:\Users\paradigm\Documents\GitHub\shedjule\Shedjule\Shedjule\bin\WebMatrix.Data.dll
+C:\Users\paradigm\Documents\GitHub\shedjule\Shedjule\Shedjule\bin\WebMatrix.WebData.dll
+C:\Users\paradigm\Documents\GitHub\shedjule\Shedjule\Shedjule\bin\Org.Mentalis.Security.Cryptography.dll
+C:\Users\paradigm\Documents\GitHub\shedjule\Shedjule\Shedjule\bin\Mono.Math.dll
+C:\Users\paradigm\Documents\GitHub\shedjule\Shedjule\Shedjule\bin\Antlr3.Runtime.pdb
+C:\Users\paradigm\Documents\GitHub\shedjule\Shedjule\Shedjule\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\paradigm\Documents\GitHub\shedjule\Shedjule\Shedjule\bin\DotNetOpenAuth.Core.xml
+C:\Users\paradigm\Documents\GitHub\shedjule\Shedjule\Shedjule\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\paradigm\Documents\GitHub\shedjule\Shedjule\Shedjule\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\paradigm\Documents\GitHub\shedjule\Shedjule\Shedjule\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\paradigm\Documents\GitHub\shedjule\Shedjule\Shedjule\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\paradigm\Documents\GitHub\shedjule\Shedjule\Shedjule\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\paradigm\Documents\GitHub\shedjule\Shedjule\Shedjule\bin\Newtonsoft.Json.xml
+C:\Users\paradigm\Documents\GitHub\shedjule\Shedjule\Shedjule\bin\System.Net.Http.Extensions.xml
+C:\Users\paradigm\Documents\GitHub\shedjule\Shedjule\Shedjule\bin\System.Net.Http.Formatting.xml
+C:\Users\paradigm\Documents\GitHub\shedjule\Shedjule\Shedjule\bin\System.Net.Http.Primitives.xml
+C:\Users\paradigm\Documents\GitHub\shedjule\Shedjule\Shedjule\bin\System.Web.Helpers.xml
+C:\Users\paradigm\Documents\GitHub\shedjule\Shedjule\Shedjule\bin\System.Web.Http.xml
+C:\Users\paradigm\Documents\GitHub\shedjule\Shedjule\Shedjule\bin\System.Web.Http.OData.xml
+C:\Users\paradigm\Documents\GitHub\shedjule\Shedjule\Shedjule\bin\System.Web.Http.WebHost.xml
+C:\Users\paradigm\Documents\GitHub\shedjule\Shedjule\Shedjule\bin\System.Web.Mvc.xml
+C:\Users\paradigm\Documents\GitHub\shedjule\Shedjule\Shedjule\bin\System.Web.Razor.xml
+C:\Users\paradigm\Documents\GitHub\shedjule\Shedjule\Shedjule\bin\System.Web.WebPages.xml
+C:\Users\paradigm\Documents\GitHub\shedjule\Shedjule\Shedjule\bin\System.Web.WebPages.Deployment.xml
+C:\Users\paradigm\Documents\GitHub\shedjule\Shedjule\Shedjule\bin\System.Web.WebPages.Razor.xml
+C:\Users\paradigm\Documents\GitHub\shedjule\Shedjule\Shedjule\bin\EntityFramework.xml
+C:\Users\paradigm\Documents\GitHub\shedjule\Shedjule\Shedjule\bin\WebMatrix.Data.xml
+C:\Users\paradigm\Documents\GitHub\shedjule\Shedjule\Shedjule\bin\WebMatrix.WebData.xml
+C:\Users\paradigm\Documents\GitHub\shedjule\Shedjule\Shedjule\bin\Org.Mentalis.Security.Cryptography.xml
+C:\Users\paradigm\Documents\GitHub\shedjule\Shedjule\Shedjule\bin\Mono.Math.xml
+C:\Users\paradigm\Documents\GitHub\shedjule\Shedjule\Shedjule\obj\Debug\Shedjule.csproj.App.config
+C:\Users\paradigm\Documents\GitHub\shedjule\Shedjule\Shedjule\obj\Debug\Shedjule.csprojResolveAssemblyReference.cache
+C:\Users\paradigm\Documents\GitHub\shedjule\Shedjule\Shedjule\obj\Debug\Shedjule.dll
+C:\Users\paradigm\Documents\GitHub\shedjule\Shedjule\Shedjule\obj\Debug\Shedjule.pdb
+C:\Users\paradigm\Documents\GitHub\shedjule\Shedjule\Shedjule\bin\WebActivatorEx.dll
+C:\Users\paradigm\Documents\GitHub\shedjule\Shedjule\Shedjule\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Users\paradigm\Documents\GitHub\shedjule\Shedjule\Shedjule\bin\StructureMap.dll
+C:\Users\paradigm\Documents\GitHub\shedjule\Shedjule\Shedjule\bin\WebActivator.dll
+C:\Users\paradigm\Documents\GitHub\shedjule\Shedjule\Shedjule\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\paradigm\Documents\GitHub\shedjule\Shedjule\Shedjule\bin\Microsoft.Practices.ServiceLocation.xml
+C:\Users\paradigm\Documents\GitHub\shedjule\Shedjule\Shedjule\bin\StructureMap.pdb
+C:\Users\paradigm\Documents\GitHub\shedjule\Shedjule\Shedjule\bin\StructureMap.xml
