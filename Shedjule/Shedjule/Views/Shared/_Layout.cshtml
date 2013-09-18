@@ -35,9 +35,9 @@
             </nav>
         </header>
         
-        <div id="body" style="padding-top:100px">
+        <div id="body" style="padding-top:100px" class="container">
             @RenderSection("featured", required: false)
-            <section class="content-wrapper main-content clear-fix">
+            <section >
                 @RenderBody()
             </section>
         </div>
@@ -52,5 +52,5 @@
         @Scripts.Render("~/bundles/jquery")
         @Scripts.Render("~/Scripts/bootstrap.js")
         @RenderSection("scripts", required: false)
-    </body>
+   
 </html>
