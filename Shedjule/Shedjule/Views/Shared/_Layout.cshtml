@@ -47,11 +47,11 @@
     <div  style="padding-top:100px;" class="container">
         @if (Request.IsAuthenticated){
                 <ul class="nav nav-tabs" id="navTabs">
-                    <li class="active"><a href="#">Home</a></li>
-                    <li><a href="@Url.Content("~/Account/Manage")">Profile</a></li>
-                    <li><a href="#">Calendars</a></li>
-                    <li><a href="#">Calendar Settings</a></li>
-                    <li><a href="#">Billing</a></li>
+                    <li class="active"><a href="@Url.Content("~/Home/Index")" >Home</a></li>
+                    <li><a href=@Url.Content("~/Account/Manage") data-toggle="tab">Profile</a></li>
+                    <li><a href="#"data-toggle="tab">Calendars</a></li>
+                    <li><a href="#"data-toggle="tab">Calendar Settings</a></li>
+                    <li><a href="#"data-toggle="tab">Billing</a></li>
                 </ul>
                 <br />
                 <br />
