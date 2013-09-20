@@ -3,6 +3,7 @@
     ViewBag.Title = "Manage Account";
 }
 
+
 <hgroup class="title">
     <h1>@ViewBag.Title.</h1>
 </hgroup>
@@ -27,6 +28,11 @@ else
     @Html.Action("ExternalLoginsList", new { ReturnUrl = ViewBag.ReturnUrl })
 </section>
 
-@section Scripts {
+@section scripts {
+    <script>
+        $(function () {
+            $('#profilenav_js').addClass("active");
+        });
+    </script>
     @Scripts.Render("~/bundles/jqueryval")
 }
